@@ -1,5 +1,5 @@
 # Dipro Chatterjee
-
+- https://twitter.com/chatterjeedipro
 - Senior Software Engineer, DAZN
 - Loves NodeJS and AWS
 - Passionate about discovering and learning
