@@ -1,0 +1,11 @@
+{
+  "name": "streams-demo",
+  "version": "1.0.0",
+  "description": "This is a project that will dive deep into process, signals, events, listeners and streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dipro",
+  "license": "ISC"
+}
